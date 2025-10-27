@@ -3,7 +3,7 @@
 ## Overview  
 This repository contains a proof of concept developed by **Nextwave Education Solutions** to explore how **machine learning techniques** can be applied to improve service provision for international student advising.  
 
-The study demonstrates how **unsupervised learning (clustering)** can be used to segment students based on their academic readiness, financial capacity, and logistical preparedness—allowing for **personalized guidance, efficient targeting, and smarter resource allocation** across student support services.
+The study demonstrates how **unsupervised learning (clustering)** can be used to segment students based on their academic readiness, financial capacity, and logistical preparedness, allowing for **personalized guidance, efficient targeting, and smarter resource allocation** across student support services.
 
 As global demand for quality education rises, many students from countries such as **Kenya, Tanzania, and Pakistan** are actively seeking opportunities to pursue higher education abroad, particularly in destinations like **Canada, the United States, and the United Kingdom**.  
 
